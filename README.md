@@ -1,4 +1,3 @@
-# Auto-service-system
 # 🚗 Auto-Service-System
 
 **Streamlining Automotive Service Management, One Click at a Time.**
